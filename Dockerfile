@@ -1,5 +1,5 @@
 FROM java:7
-COPY javahelloworld.java .
+COPY javahelloword.java .
 RUN javac javahelloword.java
 
 
