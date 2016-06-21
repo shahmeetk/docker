@@ -3,4 +3,4 @@ COPY javahelloword.java .
 RUN javac javahelloword.java
 
 
-CMD ["java", "javahelloworld"]
+CMD ["java", "javahelloword"]
